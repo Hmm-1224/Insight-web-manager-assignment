@@ -1,2 +1,2 @@
 # Insight-web-manager-assignment
-Do run index.html which is outside the directory
+Do run index.html which is outside the allhtml  directory
