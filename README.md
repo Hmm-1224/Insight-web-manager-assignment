@@ -33,7 +33,7 @@ User Interaction: Interactive elements such as buttons and forms are managed usi
 Getting Started
 To set up and run the application:
 
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/Hmm-1224/Insight-web-manager-assignment.​
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/Hmm-1224/Insight-web-manager-assignment.git​
 
 Open index.html: Navigate to the cloned directory and open index.html in your preferred web browser. This serves as the main entry point to the application.​
 
