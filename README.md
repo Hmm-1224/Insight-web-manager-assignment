@@ -1,4 +1,4 @@
-# Insight-web-manager-assignment
+# Dev-assignment
 This project is a web-based application designed to manage and display insights through a user-friendly interface. The application is built using HTML, CSS, and JavaScript, and is structured to ensure clarity and ease of navigation.
 
 Project Structure
